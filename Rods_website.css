@@ -1,0 +1,35 @@
+/* style.css */
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background-image: url("./black.jpg");
+    height: 100vh;
+    width: 100%;
+    color: white;
+    }
+}
+
+aside{
+float: right}
+
+
+/* body{
+font-family: 'Arvo', serif;
+} */
+
+/* body{
+font-family: 'Roboto Slab', serif;} */
+
+
+
+/* body{
+font color: blue
+font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+
+body {font-family: 'Source Code Pro', monospace;} */
+
+body{
+   
